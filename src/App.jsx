@@ -1,4 +1,3 @@
-import favicon from "../public/favicon.png";
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import Layout from "./components/Layout/Layout";
